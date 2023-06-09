@@ -1,7 +1,17 @@
-In order to run program node, react, express, nodejs, along with the mysql database is required,
-	1. cd into server run the command
-		a. npm start
-	2. cd into client in another terminal window and run
-		a. npm start
-
-You might have to install other dependencies/libraries in order to work. 
+dependencies: 
+	1.react 
+	2. express
+	3. node 
+	4. mapbox
+	5. react-dom
+	6. react-router-dom
+	7. react-scripts
+	8. react-svg-worldmap
+	9. react-window
+	10. cors
+	11. dotenv
+	12. mysql2
+	13. nodemon
+	14. twit
+	15. twitter
+	
