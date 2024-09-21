@@ -1,0 +1,123 @@
+
+[
+    {
+        "eventid": 1,
+        "event": "War in Ukraine",
+        "deaths": 354000,
+        "country": "Ukraine",
+        "description": "The War in Ukraine began in 2014 after a political crisis in Ukraine led to the annexation of Crimea by Russia. Following this, pro-Russian separatists declared independence in the eastern regions of Donetsk and Luhansk, leading to a conflict between Ukrainian government forces and the separatists. The conflict has resulted in thousands of deaths and displacement of millions of people. Despite several ceasefires and peace talks, the conflict remains ongoing, with periodic flare-ups of violence. The war has also been complicated by involvement from outside parties, including Russia's support for the separatists and accusations of Russian military involvement in the conflict. The conflict has strained relations between Ukraine and Russia, as well as between Russia and many Western countries, leading to economic sanctions and diplomatic tensions.",
+        "tag": "#WarInUkraine",
+        "trend": 58,
+        "url1": "https://www.reuters.com/world/europe/ukraine-war-already-with-up-354000-casualties-likely-drag-us-documents-2023-04-12/",
+        "url2": "https://www.bbc.com/news/world-60525350",
+        "url3": "https://www.bloomberg.com/news/articles/2023-05-01/ukraine-latest-russia-targets-cities-with-new-missile-strikes"
+    },
+    {
+        "eventid": 2,
+        "event": "Civil War Fears rise in South Sudan",
+        "deaths": 180,
+        "country": "South Sudan",
+        "description": "In late 2020 and early 2021, there were growing fears of a new civil war in South Sudan. These fears were fueled by escalating violence between government and opposition forces, as well as ethnic clashes in various parts of the country. The situation was further complicated by ongoing economic and humanitarian crises, including food shortages and displacement of civilians. The peace process that had been agreed upon in 2018 was also facing significant challenges, with key provisions yet to be implemented. While the situation has remained tense, there have been some efforts towards resolving the conflict through dialogue and diplomacy. However, the risk of renewed violence and instability in South Sudan remains a concern.",
+        "tag": "#CivilWarInSouthSudan",
+        "trend": 73,
+        "url1": "https://www.bloomberg.com/news/articles/2023-04-16/death-toll-from-sudan-fighting-rises-to-56-with-hundreds-injured#xj4y7vzkg",
+        "url2": "https://www.aljazeera.com/news/liveblog/2023/4/17/sudan-fighting-live-news-nearly-100-killed-as-clashes-spread",
+        "url3": "https://www.npr.org/2023/04/16/1170289462/sudans-army-and-rsf-are-doing-battle-leaving-56-civilians-dead"
+    },
+    {
+        "eventid": 3,
+        "event": "Nagorno-Karabakh Conflict",
+        "deaths": 7300,
+        "country": "Armenia",
+        "description": "The Nagorno-Karabakh conflict is a territorial dispute between Armenia and Azerbaijan over the Nagorno-Karabakh region, which is internationally recognized as part of Azerbaijan but has a majority Armenian population. The conflict began in the late 1980s and escalated into a full-scale war in the early 1990s, resulting in thousands of deaths and the displacement of hundreds of thousands of people. In 1994, a ceasefire was signed, but the conflict remained unresolved, with sporadic outbreaks of violence over the years. In 2020, fighting broke out once again, leading to a six-week war that resulted in thousands of deaths on both sides, the displacement of tens of thousands of people, and significant damage to infrastructure. In November 2020, a ceasefire agreement was brokered by Russia, which called for the deployment of Russian peacekeepers to the region and the return of some Azerbaijani-held territories to Armenian control. The agreement has been criticized by some Armenians for its perceived concessions to Azerbaijan, while others see it as a necessary step towards ending the conflict. The long-term resolution of the Nagorno-Karabakh conflict remains uncertain, with issues such as the status of the region and the rights of its Armenian population still in dispute.",
+        "tag": "#ArmeniaAndAzerbaijan",
+        "trend": 22,
+        "url1": "https://www.reuters.com/world/asia-pacific/armenia-azerbaijan-hold-peace-settlement-talks-washington-sunday-2023-04-29/",
+        "url2": "https://www.voanews.com/a/armenia-azerbaijan-to-meet-in-us-for-talks-to-normalize-relations-/7071970.html",
+        "url3": "https://www.aljazeera.com/news/2023/4/23/tensions-rise-after-azerbaijan-blocks-land-route-from-armenia"
+    },
+    {
+        "eventid": 4,
+        "event": "Yemen Civil War",
+        "deaths": 377000,
+        "country": "Yemen",
+        "description": "The Yemen Civil War is an ongoing conflict that began in 2014, when Houthi rebels, a Shia minority group, overthrew the Yemeni government and took control of the capital city, Sana'a. The conflict escalated in 2015 when a coalition led by Saudi Arabia and the United Arab Emirates launched a military intervention in support of the Yemeni government. The conflict has resulted in a humanitarian crisis, with millions of people facing food and water shortages, as well as a cholera outbreak and a COVID-19 pandemic. Both sides have been accused of human rights abuses, including the bombing of civilian areas and the use of child soldiers. The conflict has also taken on a regional dimension, with Iran supporting the Houthi rebels and Saudi Arabia and its allies accusing Iran of interfering in Yemeni affairs. Despite numerous attempts at peace negotiations, the conflict has continued, with intermittent fighting and occasional ceasefire agreements. Efforts to resolve the conflict have been complicated by divisions within the Yemeni government, as well as the involvement of regional and international powers. The United Nations has called for an end to the conflict and for negotiations to find a political solution, but the situation remains tense and the future of Yemen uncertain.",
+        "tag": "#YemenCivilWar",
+        "trend": 57,
+        "url1": "https://www.bbc.com/news/world-middle-east-29319423",
+        "url2": "https://www.icrc.org/en/war-yemen",
+        "url3": "https://time.com/yemen-saudi-arabia-war-human-toll/"
+    },
+    {
+        "eventid": 5,
+        "event": "Tigray War",
+        "deaths": 600000,
+        "country": "Ethiopia",
+        "description": "The Tigray War is an ongoing armed conflict in the Tigray Region of Ethiopia, which began in November 2020. The conflict erupted when the Ethiopian government accused the Tigray People's Liberation Front (TPLF), a political party that had dominated Ethiopian politics for decades, of attacking a military base in the region. The government responded with a military offensive against the TPLF, which quickly escalated into a full-scale conflict. The war has been characterized by widespread violence, including reports of atrocities committed by both sides. The Ethiopian government has been accused of using heavy weaponry and committing human rights violations, including rape, extrajudicial killings, and ethnic cleansing. The TPLF has been accused of targeting civilians, including in the neighboring Amhara and Afar regions. The conflict has led to a humanitarian crisis, with thousands of people killed and hundreds of thousands displaced from their homes. The conflict has also disrupted critical services, including healthcare and education, and there are growing concerns about food insecurity and the spread of diseases such as COVID-19 and cholera. Efforts to resolve the conflict have been complicated by the involvement of regional and international powers, as well as the fragmented nature of Ethiopian politics. Despite calls for negotiations and peace talks, the conflict has continued, and the future of the Tigray region and Ethiopia remains uncertain.",
+        "tag": "#TigrayWar",
+        "trend": 11,
+        "url1":"https://www.state.gov/war-crimes-crimes-against-humanity-and-ethnic-cleansing-in-ethiopia/",
+        "url2": "https://apnews.com/article/blinken-ethiopia-tigray-eritrea-war-crimes-da5d9ac7c900c58cc34b9ca5d4156667",
+        "url3": "https://www.hrw.org/tag/tigray-conflict"
+    },
+    {
+        "eventid": 6,
+        "event": "Taiwan Conflict",
+        "deaths": 0,
+        "country": "Taiwan",
+        "description": "The Taiwan conflict is a long-standing dispute over the status of Taiwan, a self-governing democratic island that is officially known as the Republic of China. China, which is officially known as the People's Republic of China, claims Taiwan as part of its territory and has never renounced the use of force to bring it under its control. Taiwan, on the other hand, maintains that it is an independent country and has its own government, military, and economy. The tension between China and Taiwan has increased in recent years, with China exerting pressure on Taiwan through diplomatic isolation, military threats, and economic coercion. China has also been building up its military presence in the region, including by conducting naval and air drills near Taiwan. The international community is divided over the Taiwan issue, with some countries recognizing Taiwan as a sovereign state and others recognizing the One China Policy, which recognizes Beijing as the sole legitimate government of China, including Taiwan. The United States, a long-standing ally of Taiwan, has been increasing its support for Taiwan in recent years, including by selling arms and conducting naval patrols in the region. The future of Taiwan and the relationship between China and Taiwan remains uncertain, with both sides taking a firm stance on their respective positions. The potential for conflict and instability in the region remains a concern for the international community.",
+        "tag": "#TaiwanConflict",
+        "trend": 10,
+        "url1": "https://www.wsj.com/articles/on-basco-island-south-of-taiwan-u-s-military-prepares-for-conflict-with-china-f7c5c8bc",
+        "url2": "https://asia.nikkei.com/Politics/China-revises-conscription-law-eyeing-Taiwan-conflict",
+        "url3": "https://www.nbcnews.com/news/world/taiwan-us-china-dispute-why-it-matters-flashpoint-democracy-rcna78458"
+    },
+    {
+        "eventid": 7,
+        "event": "Democratic Republic of the Congo and M23 Conflict",
+        "deaths": 20,
+        "country": "DR Congo",
+        "description": "The Democratic Republic of Congo (DRC) has been plagued by conflict and violence for decades, with various armed groups vying for power and control over resources in the region. One of the ongoing conflicts is the M23 rebellion, which began in 2012 when a group of former Congolese soldiers mutinied against the government. The M23 rebels, who are primarily ethnic Tutsis, accused the government of discrimination and failing to implement a peace agreement from a previous conflict. The rebels quickly gained control of large parts of the eastern DRC, including the city of Goma, before being pushed back by the Congolese army and a UN peacekeeping mission. The conflict has led to widespread violence, including reports of human rights abuses committed by both sides. The rebels have been accused of recruiting child soldiers, rape, and extrajudicial killings, while the government forces have been accused of using excessive force against civilians. Efforts to resolve the conflict have been complicated by the involvement of neighboring countries, including Rwanda, which has been accused of supporting the M23 rebels. The international community has called for a peaceful resolution to the conflict and for the protection of civilians in the region.",
+        "tag": "#M23Rebels",
+        "trend": 49,
+        "url1":"https://www.amnesty.org/en/latest/news/2023/02/dr-congo-rwandan-backed-m23-rebels-perpetrating-summary-killings-and-rapes/",
+        "url2": "https://www.hrw.org/news/2023/02/06/dr-congo-atrocities-rwanda-backed-m23-rebels",
+        "url3": "https://acleddata.com/2023/03/23/actor-profile-m23-drc/"
+    },
+    {
+        "eventid": 8,
+        "event": "Conflict in the Sahel",
+        "deaths": 2300,
+        "country": "Burkina Faso, Mali, Niger",
+        "description": "The Sahel region, a semi-arid belt of land stretching across Africa from Senegal to Sudan, has been facing a complex and ongoing conflict involving a range of armed groups, government forces, and international actors. The conflict has been fueled by a combination of factors, including poverty, weak governance, climate change, and the spread of extremist ideologies. One of the key drivers of the conflict is the presence of Islamist extremist groups, including Al Qaeda in the Islamic Maghreb (AQIM) and the Islamic State in the Greater Sahara (ISGS). These groups have taken advantage of the region's porous borders and weak governance to establish a foothold in the area, carrying out attacks on civilians and military targets. The conflict has also been fueled by intercommunal violence, as different ethnic groups compete for resources and political power. In some cases, government forces have been accused of exacerbating these tensions by arming and supporting particular ethnic groups. The international community has been involved in efforts to address the conflict, including through the deployment of peacekeeping forces and the provision of humanitarian aid. However, these efforts have been complicated by the complex and fluid nature of the conflict, as well as the involvement of multiple armed groups with different agendas. The conflict in the Sahel has had devastating humanitarian consequences, with millions of people displaced from their homes and facing food insecurity and other challenges. The ongoing conflict has also had wider regional implications, with the potential to destabilize neighboring countries and exacerbate existing tensions.",
+        "tag": "#SahelConflict",
+        "trend": 44,
+        "url1": "https://acleddata.com/10-conflicts-to-worry-about-in-2022/sahel/",
+        "url2": "https://reporting.unhcr.org/sahel-situation",
+        "url3": "https://www.who.int/emergencies/situations/humanitarian-crisis-in-sahel-region-of-africa"
+    },
+    {
+        "eventid": 9,
+        "event": "Gang Violence in Haiti",
+        "deaths": 530,
+        "country": "Haiti",
+        "description": "Haiti has been grappling with a surge in gang violence and insecurity in recent years, with armed gangs taking control of several neighborhoods in the capital, Port-au-Prince, and other parts of the country. The violence has led to a rise in kidnappings, killings, and other crimes, and has further destabilized an already fragile political and economic situation. The gangs are often associated with political factions or drug trafficking networks, and have been accused of carrying out attacks on civilians, businesses, and even police stations. The violence has also disrupted access to basic services, including healthcare and education, and has forced many people to flee their homes. The situation has been exacerbated by the political crisis in the country, which has seen a rise in protests and demonstrations calling for the resignation of President Jovenel Moise. The government has been accused of being unable to address the security situation, with some observers suggesting that some politicians may even be complicit in the violence. The international community has expressed concern about the situation in Haiti and has called for an end to the violence and for efforts to address the underlying causes of the conflict. The United Nations has maintained a peacekeeping mission in the country, but this has been controversial, with some observers questioning its effectiveness and others calling for a stronger response to the violence.",
+        "tag": "#HaitiGangViolence",
+        "trend": 29,
+        "url1": "https://www.vox.com/world-politics/2023/3/26/23657163/haitis-gang-violence-crisis-explained",
+        "url2": "https://apnews.com/article/haiti-gang-violence-killed-31eaed96031c7bbc6b3c03ab925d2860",
+        "url3":"https://www.theguardian.com/global-development/2023/mar/24/haiti-faces-hunger-emergency-amid-escalating-gang-violence-and-surging-inflation"
+    },
+    {
+        "eventid": 10,
+        "event": "Terrorism and Extremism in Pakistan",
+        "deaths": 643,
+        "country": "Pakistan",
+        "description": "Pakistan has been grappling with a long-standing issue of terrorism and extremism, with various groups carrying out attacks on civilians, religious minorities, and government institutions. The violence has been fueled by a range of factors, including political instability, sectarian tensions, poverty, and external influences. One of the most prominent extremist groups in Pakistan is the Tehreek-e-Taliban Pakistan (TTP), which emerged in the early 2000s and has been responsible for numerous attacks on civilians and security forces. The group is aligned with the Afghan Taliban and has been accused of receiving support from elements within the Pakistani security establishment. Other extremist groups operating in Pakistan include sectarian groups such as Lashkar-e-Jhangvi (LeJ), which targets religious minorities, and the Islamic State of Khorasan Province (ISKP), which has carried out attacks on civilians and security forces. The Pakistani government has taken a range of measures to address the threat of terrorism and extremism, including military operations against militant groups in the tribal areas and the implementation of a National Action Plan (NAP) to counter extremism. However, these efforts have been criticized for being too heavy-handed and for targeting innocent civilians and minority communities. The international community has also been involved in efforts to address the issue, with the United States providing military and economic aid to Pakistan in exchange for cooperation in the fight against terrorism. However, this relationship has been fraught with tensions, with some accusing Pakistan of providing support to extremist groups. Despite efforts to address the issue, the threat of terrorism and extremism remains a significant challenge for Pakistan, with ongoing violence and insecurity affecting the daily lives of many Pakistanis.",
+        "tag": "#TerrorismInPakistan",
+        "trend": 38,
+        "url1": "https://foreignpolicy.com/2023/04/18/pakistan-taliban-islamist-extremism-balochistan-separatism/",
+        "url2": "https://thediplomat.com/2023/04/us-pakistan-counterterrorism-dialogue-and-the-regional-terrorism-situation/",
+        "url3": "https://moderndiplomacy.eu/2023/04/28/terrorism-and-extremism-implications-for-pakistans-security/"
+    }
+]
