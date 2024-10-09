@@ -5,10 +5,10 @@ const Twitter = require('twitter');
 
 
 const client = new Twitter({
-    consumer_key: '8EhB23B4DRXSeZnRbTtjI5FgJ',
-    consumer_secret: 'qlvEhRGnPXB8YJogjNdEnWKJW2y2vHdcMO6DbyCd5tPnDzRZ0Q',
-    access_token_key: '1650630159681179672-BkmjQZiuXgA3rYndoO8HzlDcsvGFNu',
-    access_token_secret: 'zcAq5boC9bKgwxp1VDwVxLA1ncJrxzpW2NtdtgHd4iCvH'
+    consumer_key: '',
+    consumer_secret: '',
+    access_token_key: '',
+    access_token_secret: ''
   });
 
 router.get('/', async (req,res) => {
@@ -16,10 +16,10 @@ router.get('/', async (req,res) => {
     const tag = req.params.tag;
 
     const client = new Twitter({
-        consumer_key: '8EhB23B4DRXSeZnRbTtjI5FgJ',
-        consumer_secret: 'qlvEhRGnPXB8YJogjNdEnWKJW2y2vHdcMO6DbyCd5tPnDzRZ0Q',
-        access_token_key: '1650630159681179672-BkmjQZiuXgA3rYndoO8HzlDcsvGFNu',
-        access_token_secret: 'zcAq5boC9bKgwxp1VDwVxLA1ncJrxzpW2NtdtgHd4iCvH'
+        consumer_key: '',
+        consumer_secret: '',
+        access_token_key: '',
+        access_token_secret: ''
     });
 
     client.get('search/tweets', { q: '#' + tag, count:100}, function(err, tweets, response){
